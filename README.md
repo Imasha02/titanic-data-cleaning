@@ -23,8 +23,9 @@ The Titanic dataset is a classic machine learning and data analysis problem. In 
 ## 📊 Key Visualizations
 
 - Grouped bar chart: `Sex` vs `Survived` (percentages)
-- Box plot: Age distribu-tion before vs after filling nulls
+- Histogram : Age distribution before vs after filling nulls
 - Bar plot: Survival by Deck
+- Box plot - Age distribution by survival
 
 ## 📁 Files Included
 
