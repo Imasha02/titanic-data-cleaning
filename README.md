@@ -40,8 +40,4 @@ The Titanic dataset is a classic machine learning and data analysis problem. In 
 - Seaborn
 - Google Colab  
 
-## 🙋‍♀️ Author
-
-- Buddhini Imasha  
-- [GitHub Profile](https://github.com/your-username)
 
