@@ -1,5 +1,4 @@
-Titanic Dataset Cleaning and Exploration 
-This project focuses on cleaning and exploring the Titanic dataset using Python (Pandas, Seaborn, Matplotlib) in Google Colab.
+Titanic Dataset Cleaning and Exploration - focuses on cleaning and exploring the Titanic dataset using Python (Pandas, Seaborn, Matplotlib) in Google Colab.
 
 ## 📂 Project Overview
 
